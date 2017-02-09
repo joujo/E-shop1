@@ -1,0 +1,4 @@
+services:
+#    fidelisation_fidelisation.example:
+#        class: Fidelisation\FidelisationBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

@@ -1,0 +1,3 @@
+fidelisation_fidelisation_homepage:
+    path:     /
+    defaults: { _controller: FidelisationFidelisationBundle:Default:index }
